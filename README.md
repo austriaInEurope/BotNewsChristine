@@ -35,7 +35,7 @@ Telegram-бот для автоматического парсинга, сорт
 
 ## 👩‍💻 Автор
 Кристина Лаврикова  
-iOS Developer (Swift / SwiftUI) & Python Developer
+iOS Developer (Swift / SwiftUI) & Python Developer (?)
 
 GitHub: https://github.com/austriaInEurope/PortfolioNew  
 Telegram: @eevamu
